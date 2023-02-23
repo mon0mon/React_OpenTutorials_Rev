@@ -1,0 +1,3 @@
+[submodule "react-rev"]
+	path = react-rev
+	url = https://github.com/wikibook/react-rev.git
