@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/src/Ch_01/Sec_05/react-app/.idea/react-app.iml" filepath="$PROJECT_DIR$/src/Ch_01/Sec_05/react-app/.idea/react-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/생활코딩_React.iml" filepath="$PROJECT_DIR$/.idea/생활코딩_React.iml" />
     </modules>
   </component>
